@@ -1,8 +1,8 @@
 *{
     margin: 0;
-    font-family: 'Work Sans';
+    font-family:'Work Sans';
 }
-.primary-btn{
+.hero-btn{
     color: white;
     background-color: #FD6E0A;
     font-size: 16px;
@@ -101,6 +101,99 @@
     font-weight: bold;
 }
 .item-sub-title{
+    font-size: 18px;
+    font-weight: 500px;
+}
+/* call to action section */
+.call-to-action-section{
+    max-width: 1000px;
+    height: 200px;
+    margin: 100px auto;
+    background-image: url(/images/watch.png);
+    background-repeat: no-repeat;
+    background: linear-gradient(to right, #FD6E0A, #ffffff00);
+    background-blend-mode: multiply;
+    border-radius: 10px;
+    padding: 60px;
+}
+.call-to-action{
+    vertical-align: middle;
+    padding-top: 40px;
+}
+.call-to-action-title{
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.call-to-action-button{
+    color: #FD6E0A;
+    background-color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: 0;
+}
+/* footer section */
+footer{
+    margin-top: 100px;
+    padding: 100px;
+    background-color: #151414;
+}
+.footer-section{
+    margin: 0 auto;
+    max-width: 1100px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-about{
+    max-width: 500px;
+}
+.footer-title{
+    font-size: 25px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.footer-sub-title{
+    font-size: 16px;
+    /* font-weight: 400px; */
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+.contact-email , .phone{
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+.phone{
+    
+}
+.footer-subscribe{
+   
+}
+.subscribe-title{
+    font-size: 25px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.email{
+    display: block;
+    background-color: #ffffff00;
+    border: 1px solid white;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 200px;
+
+}
+.sbus-button{
+    background-color: #ffffff;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: #FD6E0A;
     font-size: 18px;
     font-weight: 500px;
 }
