@@ -41,3 +41,35 @@
     text-align: right;
     line-height: 1.3em;
 }
+/* about us section */
+.about-section{
+    max-width: 1050px;
+    height: 750px;
+    display: flex;
+    margin: 100px auto;
+}
+.about-image{
+    height: 720px;
+    padding-right: 100px;
+}
+.about-us{
+
+    vertical-align: middle;
+    padding-top: 150px;
+}
+.about-title{
+    font-size: 35px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.about-sub-title{
+    font-size: 18px;
+    font-weight: 600px;
+    margin-bottom: 15px;
+    line-height: 1.3em;
+}
+.bullet{
+    font-size: 18px;
+    font-weight: 600px;
+    margin-bottom: 5px;
+}
