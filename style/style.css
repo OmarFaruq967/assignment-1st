@@ -94,6 +94,8 @@
 }
 .item-image{
     margin-bottom: 10px;
+    height: 70px;
+    width: 70px;
 }
 .item-title{
     font-size: 20px;
