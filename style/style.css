@@ -169,7 +169,10 @@ footer{
     color: #ffffff;
     margin-bottom: 15px;
 }
-.phone{
+.facebook, .twitter, .youtube{
+    padding-right: 10px;
+    height: 30px;
+    width: 30px;
     
 }
 .footer-subscribe{
