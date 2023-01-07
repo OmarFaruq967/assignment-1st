@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans';
+}
+.primary-btn{
+    color: white;
+    background-color: #FD6E0A;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 20px;
+    margin-left: 420px;
+}
+/* hero-section */
+.header{
+    background-image: url(/images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    align-items: center;
+}
+.Bannar-side-section{
+    float: right;
+    max-width: 550px;
+    margin: 200px 150px 100px 50px;
+    width: 1150px;
+    /* text-align: right; */
+}
+.hero-title{
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: right;
+}
+.hero-sub-title{
+    font-size: 18px;
+    font-weight: 500px;
+    margin-bottom: 10px;
+    text-align: right;
+    line-height: 1.3em;
+}
