@@ -73,3 +73,34 @@
     font-weight: 600px;
     margin-bottom: 5px;
 }
+/* my plan section */
+.my-plan{
+    max-width: 1150px;
+    margin: 100px auto;
+}
+.my-plan-title{
+    font-size: 35px;
+    margin-bottom: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.plan-items{
+    display: flex;
+    justify-content: space-around;
+}
+.plan-item{
+    align-items: center;
+    text-align: center;
+}
+.item-image{
+    margin-bottom: 10px;
+}
+.item-title{
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.item-sub-title{
+    font-size: 18px;
+    font-weight: 500px;
+}
